@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 3000px;
+}
+
+.header {
+	padding-top: 50px;
+	padding-bottom: 50px;
+    width: 50%;
+    margin: 40px auto;
+    text-align: center;
+}
+
+.logo {
+    height: 400px;
+    width: 700px;
+}
+
+.title {
+    font-size:28px; 
+}
+
+p {
+    font-size: 20px;
+}
+
+.cars {
+    margin-left: 100px;
+    max-width: 100%;
+}
+
+img {
+    height: 400px;
+    max-width: 80%;
+}
+
+.cars__container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+
+.calc-price {
+	padding: 30px 50px;
+	position: fixed;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: rgb(218, 243, 255);
+	background-color: white;
+	box-shadow: -10px 0px 25px rgba(143, 179, 195, 0.685);
+    height: 70px;
+}
+
+.calc-price-title {
+	font-size: 32px;
+	font-weight: 700;
+	margin-bottom: 10px;
+}
+
+.calc-price-value {
+	font-size: 26px;
+	font-weight: 300;
+}

@@ -1,0 +1,73 @@
+[
+    {
+      "id": "id-1",
+      "brand": "Audi",
+      "model": "R8 Coupe",
+      "color": "Gray",
+      "price": 150000,
+      "imgSrc": "audi.jpg"
+    },
+  
+    {
+      "id": "id-2",
+      "brand": "Mini",
+      "model": "Cooper S",
+      "color": "Begie",
+      "price": 115000,
+      "imgSrc": "mini.jpg"
+    },
+  
+    {
+      "id": "id-3",
+      "brand": "Volkswagen",
+      "model": "Atlas Croos",
+      "color": "Blue",
+      "price": 200000,
+      "imgSrc": "VW.webp"
+    },
+  
+    {
+      "id": "id-4",
+      "brand": "Nissan",
+      "model": "GT-R",
+      "color": "Red",
+      "price": 180000,
+      "imgSrc": "nissan.jpg"
+    },
+
+    {
+        "id": "id-5",
+        "brand": "Citroen",
+        "model": "C4",
+        "color": "Green",
+        "price": 140000,
+        "imgSrc": "citroen.jpg"
+    },
+
+    {
+        "id": "id-6",
+        "brand": "Toyota",
+        "model": "Camry",
+        "color": "Yellow",
+        "price": 220000,
+        "imgSrc": "toyota.jpg"
+    },
+
+    {
+        "id": "id-7",
+        "brand": "Ford",
+        "model": "GT500",
+        "color": "Orange",
+        "price": 240000,
+        "imgSrc": "ford.jpg"
+    },
+
+    {
+        "id": "id-8",
+        "brand": "Mazda",
+        "model": "CX-9",
+        "color": "Black",
+        "price": 145000,
+        "imgSrc": "mazda.jpg"
+    }
+  ]
